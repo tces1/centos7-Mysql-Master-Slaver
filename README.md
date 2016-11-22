@@ -1,8 +1,9 @@
 # centos7-Mysql-Master-Slaver
 基于CENTOS7下的 MySQL 主从配置 
-注：第一次写教程 写的不好 大家多指正
 
-## 安装Mysql数据库
+哈哈 第一次写教程 写的不好 大家多指正
+
+## 安装Mysql数据库 
 ### 官网下载Mysql 5.6安装
 
 ```
